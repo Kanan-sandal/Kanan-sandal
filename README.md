@@ -73,7 +73,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves build
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanan-sandal&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kanan-sandal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!--
